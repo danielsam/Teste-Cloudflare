@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "worker-cloudflare",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7b217612-c3fd-4173-a0b5-6211417da704",
+      "database_name": "usuarios"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
